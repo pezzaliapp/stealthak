@@ -1,1 +1,2 @@
-
+REM IR Payload (placeholder)
+REM Codice telecomando IR
