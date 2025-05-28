@@ -1,1 +1,3 @@
-
+REM Payload di esempio
+STRING Hello from stealthak!
+ENTER
