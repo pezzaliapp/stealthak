@@ -1,1 +1,4 @@
-
+REM HID Payload
+DELAY 500
+STRING Hello from stealthak HID
+ENTER
