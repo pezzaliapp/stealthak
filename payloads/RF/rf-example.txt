@@ -1,1 +1,2 @@
-
+REM RF Payload (placeholder)
+REM Usare con modulo RF Flipper Zero
