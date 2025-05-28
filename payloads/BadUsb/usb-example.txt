@@ -1,1 +1,3 @@
-
+REM BadUSB Payload
+STRING whoami
+ENTER
